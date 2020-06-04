@@ -1,4 +1,5 @@
 import xlwt
+import xlrd
 import pymysql
 
 def getData(sql):
@@ -89,7 +90,38 @@ def softwareAssociation():
         i+=1
     book1.save("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/softwareAssociation.xls")
 
+def softwareAssociationTxt():
+    book = xlrd.open_workbook("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/softwareAssociation.xls")
+    sheet = book.sheets()[0]  # 获取第一个工作表
+    dit1 = {}
+    dit2={}
+    for r in range(sheet.nrows):
+        if r<=1:
+            continue
+        key1=strReplace(sheet.row_values(r)[0])
+        if key1 not in dit1.keys():
+            dit1[key1]=[]
+        value1=strReplace(sheet.row_values(r)[2])
+        if value1 not in dit1[key1]:
+            dit1[key1].append(value1)
+        key2=strReplace(sheet.row_values(r)[1])
+        if key2 not in dit2.keys():
+            dit2[key2]=[]
+        value2=strReplace(sheet.row_values(r)[3])
+        if value2 not in dit2[key2]:
+            dit2[key2].append(value2)
+    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/S_T_ID.txt", "w", encoding="utf-8") as f:
+        for key in dit1:
+            f.write(key+":"+', '.join(str(n) for n in dit1[key])+"\n")
+    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/DataAssociation/S_G_Name.txt","w", encoding="utf-8") as f:
+        for key in dit2:
+            f.write(key+":"+', '.join(str(n) for n in dit2[key])+"\n", )
+
+def strReplace(str):
+    return str.replace(" ","").replace("\n","")
+
 
 if __name__=="__main__":
     main()
     softwareAssociation()
+    softwareAssociationTxt()

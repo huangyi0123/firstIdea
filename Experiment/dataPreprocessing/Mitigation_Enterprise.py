@@ -1,4 +1,5 @@
 import xlwt
+import xlrd
 import pymysql
 
 def getData(sql):
@@ -31,7 +32,7 @@ def main():
         r += 1
     book1.save("F:/研究生毕设/experimentalCode/firstIdea/Data/dataDuplication/Mitigation_Enterprise.xls")
 
-def mitigationMobileAssociation():
+def mitigationEnterpriseAssociation():
     result=getData("select * from Mitigation_Enterprise")
     technique=[]
 
@@ -68,7 +69,38 @@ def mitigationMobileAssociation():
 
     book1.save("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/Mitigation_Enterprise_Association.xls")
 
+def mitigationEnterpriseAssociationTxt():
+    book = xlrd.open_workbook("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/Mitigation_Enterprise_Association.xls")
+    sheet = book.sheets()[0]  # 获取第一个工作表
+    dit1 = {}
+    #dit2={}
+    for r in range(sheet.nrows):
+        if r<=1:
+            continue
+        key1=strReplace(sheet.row_values(r)[0])
+        if key1 not in dit1.keys():
+            dit1[key1]=[]
+        value1=strReplace(sheet.row_values(r)[2])
+        if value1 not in dit1[key1]:
+            dit1[key1].append(value1)
+        # key2=strReplace(sheet.row_values(r)[1])
+        # if key2 not in dit2.keys():
+        #     dit2[key2]=[]
+        # value2=strReplace(sheet.row_values(r)[3])
+        # if value2 not in dit2[key2]:
+        #     dit2[key2].append(value2)
+    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/M_T_E_ID.txt", "w") as f:
+        for key in dit1:
+            f.write(key+":"+', '.join(str(n) for n in dit1[key])+"\n")
+    # with open("F:/研究生毕设/experimentalCode/firstIdea/Data/DataAssociation/G_T_Name.txt","w") as f:
+    #     for key in dit2:
+    #         f.write(key+":"+', '.join(str(n) for n in dit2[key])+"\n")
+
+def strReplace(str):
+    return str.replace(" ","").replace("\n","")
+
 
 if __name__=="__main__":
     main()
-    mitigationMobileAssociation()
+    mitigationEnterpriseAssociation()
+    mitigationEnterpriseAssociationTxt()

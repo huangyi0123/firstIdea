@@ -99,27 +99,30 @@ def groupAssociationTxt():
     for r in range(sheet.nrows):
         if r<=1:
             continue
-        key1=strutil(sheet.row_values(r)[0])
+        key1=strReplace(sheet.row_values(r)[0])
         if key1 not in dit1.keys():
             dit1[key1]=[]
-        value1=strutil(sheet.row_values(r)[2])
+        value1=strReplace(sheet.row_values(r)[2])
         if value1 not in dit1[key1]:
             dit1[key1].append(value1)
-        key2=strutil(sheet.row_values(r)[1])
+        key2=strReplace(sheet.row_values(r)[1])
         if key2 not in dit2.keys():
             dit2[key2]=[]
-        value2=strutil(sheet.row_values(r)[3])
+        value2=strReplace(sheet.row_values(r)[3])
         if value2 not in dit2[key2]:
             dit2[key2].append(value2)
-    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/IdTechnique.txt", "w") as f:
+    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/G_T_ID.txt", "w") as f:
         for key in dit1:
-            f.write(key+":"+','.join(str(n) for n in dit1[key])+"\n")
-    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/TechniqueName.txt","w") as f:
+            f.write(key+":"+', '.join(str(n) for n in dit1[key])+"\n")
+    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/DataAssociation/G_T_Name.txt","w") as f:
         for key in dit2:
-            f.write(key+":"+','.join(str(n) for n in dit2[key])+"\n")
-def strutil(str):
+            f.write(key+":"+', '.join(str(n) for n in dit2[key])+"\n")
+
+def strReplace(str):
     return str.replace(" ","").replace("\n","")
+
+
 if __name__=="__main__":
-    #main()
-    #groupAssociation()
+    main()
+    groupAssociation()
     groupAssociationTxt()
