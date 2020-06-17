@@ -9,27 +9,27 @@ def getData(sql):
     test_db.close()
     return result
 def main():
-    result=getData('SELECT DISTINCT(T_Tactic) FROM Technique_PRE_ATTCK ')
+    result=getData('select T_ID,T_Title from Technique_PRE_ATTCK')
+    dit = {}
+    # 通过for循环遍历取出excel表中数据
+    for i in range(len(result)):#range(sheet.nrows)读工作表数据
+        dit[result[i][0]] = result[i][1]#将工作表的第一列作为key,第二列作为value存入字典，使用字典key唯一性达到去重目的，
     #将数据存入Excel
     book1 = xlwt.Workbook()#创建excel
-    sheet1 = book1.add_sheet("Technique_PRE_ATTCK")#创建工作表
+    sheet1 = book1.add_sheet("Technique_Technique_PRE_ATTCK")#创建工作表
     #统计
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(result))
-    #表头
-    sheet1.write(1, 0, "TA_ID")
-    sheet1.write(1, 1,"TA_Name" )
-
+    sheet1.write(0, 1, len(dit)-1)
+    # 表头
+    sheet1.write(1, 0, "T_ID")
+    sheet1.write(1, 1, "T_Name")
+    #sheet1.write(1, 2, "TA_Tactic")
     #将字典写入工作表
-    r = 2
-    id=1
-    i=0
-    for d in result:
-        sheet1.write(r, 0,id )
-        sheet1.write(r, 1, result[i][0].replace(" ", "").replace(",",""))
+    r = 2;
+    for d in dit:
+        sheet1.write(r, 0, d)
+        sheet1.write(r, 1, dit[d])
         r += 1
-        i+=1
-        id+=1
     book1.save("F:/研究生毕设/experimentalCode/firstIdea/Data/dataDuplication/Technique_PRE_ATTCK.xls")
 
 # def mitigationMobileAssociation():
