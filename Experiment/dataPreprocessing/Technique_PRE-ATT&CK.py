@@ -19,7 +19,7 @@ def main():
     sheet1 = book1.add_sheet("Technique_Technique_PRE_ATTCK")#创建工作表
     #统计
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(dit)-1)
+    sheet1.write(0, 1, len(dit))
     # 表头
     sheet1.write(1, 0, "T_ID")
     sheet1.write(1, 1, "T_Name")

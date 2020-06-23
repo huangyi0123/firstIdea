@@ -41,8 +41,8 @@ def softwareAssociation():
             technique.append({
                 "Id":result[i][0],
                 "Name":result[i][1],
-                "TechniqueId":result[i][7][:result[i][7].find("<")],
-                "TechniqueName":result[i][8][:result[i][8].find("<")]
+                "HomologousId":result[i][7][:result[i][7].find("<")],
+                "HomologousName":result[i][8][:result[i][8].find("<")]
             })
         if result[i][10]!=None and result[i][11]!=None:
             group.append({
@@ -67,8 +67,8 @@ def softwareAssociation():
             continue
         sheet1.write(i,0,item["Id"])
         sheet1.write(i,1,item["Name"])
-        sheet1.write(i,2,item["TechniqueId"])
-        sheet1.write(i,3,item["TechniqueName"])
+        sheet1.write(i,2,item["HomologousId"])
+        sheet1.write(i,3,item["HomologousName"])
         i+=1
 
     sheet2 = book1.add_sheet("Groups")
@@ -92,30 +92,33 @@ def softwareAssociation():
 
 def softwareAssociationTxt():
     book = xlrd.open_workbook("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/softwareAssociation.xls")
-    sheet = book.sheets()[0]  # 获取第一个工作表
-    dit1 = {}
-    dit2={}
-    for r in range(sheet.nrows):
-        if r<=1:
-            continue
-        key1=strReplace(sheet.row_values(r)[0])
-        if key1 not in dit1.keys():
-            dit1[key1]=[]
-        value1=strReplace(sheet.row_values(r)[2])
-        if value1 not in dit1[key1]:
-            dit1[key1].append(value1)
-        key2=strReplace(sheet.row_values(r)[1])
-        if key2 not in dit2.keys():
-            dit2[key2]=[]
-        value2=strReplace(sheet.row_values(r)[3])
-        if value2 not in dit2[key2]:
-            dit2[key2].append(value2)
-    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/dataAssociation/S_T_ID.txt", "w", encoding="utf-8") as f:
-        for key in dit1:
-            f.write(key+":"+', '.join(str(n) for n in dit1[key])+"\n")
-    with open("F:/研究生毕设/experimentalCode/firstIdea/Data/DataAssociation/S_G_Name.txt","w", encoding="utf-8") as f:
-        for key in dit2:
-            f.write(key+":"+', '.join(str(n) for n in dit2[key])+"\n", )
+    txtnames = [["../../Data/dataAssociation/S_G_ID.txt", "../../Data/dataAssociation/S_G_Name.txt"],
+                ["../../Data/dataAssociation/S_T_ID.txt", "../../Data/dataAssociation/S_T_Name.txt"]]
+    for i in range(len(book.sheets())):
+        sheet = book.sheets()[0]  # 获取第一个工作表
+        dit1 = {}
+        dit2={}
+        for r in range(sheet.nrows):
+            if r<=1:
+                continue
+            key1=strReplace(sheet.row_values(r)[0])
+            if key1 not in dit1.keys():
+                dit1[key1]=[]
+            value1=strReplace(sheet.row_values(r)[2])
+            if value1 not in dit1[key1]:
+                dit1[key1].append(value1)
+            key2=strReplace(sheet.row_values(r)[1])
+            if key2 not in dit2.keys():
+                dit2[key2]=[]
+            value2=strReplace(sheet.row_values(r)[3])
+            if value2 not in dit2[key2]:
+                dit2[key2].append(value2)
+        with open(txtnames[i][0], "w", encoding="utf-8") as f:
+            for key in dit1:
+                f.write(key+":"+', '.join(str(n) for n in dit1[key])+"\n")
+        with open(txtnames[i][1], "w", encoding="utf-8") as f:
+            for key in dit2:
+                f.write(key+":"+', '.join(str(n) for n in dit2[key])+"\n", )
 
 def strReplace(str):
     return str.replace(" ","").replace("\n","")

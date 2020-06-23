@@ -20,7 +20,7 @@ def main():
     sheet1 = book1.add_sheet("Mitigation_Mobile")#创建工作表
     #统计
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(dit)-1)
+    sheet1.write(0, 1, len(dit))
     # 表头
     sheet1.write(1, 0, "M_ID")
     sheet1.write(1, 1, "M_Name")
@@ -49,7 +49,7 @@ def mitigationMobileAssociation():
     book1 = xlwt.Workbook()
     sheet1 = book1.add_sheet("Technique")
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(technique)-1)
+    sheet1.write(0, 1, len(technique))
     sheet1.write(1,0,"M_ID")
     sheet1.write(1,1,"M_Name")
     sheet1.write(1,2,"M_Technique_ID")

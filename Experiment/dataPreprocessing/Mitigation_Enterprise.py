@@ -10,7 +10,7 @@ def getData(sql):
     test_db.close()
     return result
 def main():
-    result=getData('select M_ID,M_Name from Mitigation_Mobile')
+    result=getData('select M_ID,M_Name from Mitigation_Enterprise')
     dit = {}
     # 通过for循环遍历取出excel表中数据
     for i in range(len(result)):#range(sheet.nrows)读工作表数据
@@ -20,7 +20,7 @@ def main():
     sheet1 = book1.add_sheet("Mitigation_Enterprise")#创建工作表
     #统计
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(dit)-1)
+    sheet1.write(0, 1, len(dit))
     # 表头
     sheet1.write(1, 0, "M_ID")
     sheet1.write(1, 1, "M_Name")
@@ -49,7 +49,7 @@ def mitigationEnterpriseAssociation():
     book1 = xlwt.Workbook()
     sheet1 = book1.add_sheet("Technique")
     sheet1.write(0, 0, "合计")
-    sheet1.write(0, 1, len(technique)-1)
+    sheet1.write(0, 1, len(technique))
     sheet1.write(1,0,"M_ID")
     sheet1.write(1,1,"M_Name")
     sheet1.write(1,2,"M_Technique_ID")
