@@ -1,0 +1,1 @@
+analyze technical scanning results,16.0:assess collected information,9.0:software/hardware versions,4.0:patch level,4.0:identify weaknesses,4.0:adversary,1.0:vulnerabilities,1.0:confirmation,1.0:architecture,1.0

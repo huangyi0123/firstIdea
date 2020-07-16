@@ -1,0 +1,1 @@
+coin miner payload,9.0:smoke loader,4.0:compromised update,4.0:tor client,4.0:distributed,1.0

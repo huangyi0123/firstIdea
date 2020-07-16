@@ -1,0 +1,1 @@
+create connections,3.5:connections,1.5:persona,1.0:developed,1.0:adversary,1.0:targets,1.0:interest,1.0:direct,1.0:include,1.0:connect,1.0

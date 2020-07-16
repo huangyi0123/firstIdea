@@ -1,0 +1,1 @@
+purposefully tripping security defenses,16.0:identify web defensive services,15.5:passively detecting services,9.5:cloudflare routing,3.5:cloudflare,1.5:adversary,1.0:attempt,1.0:ipban,1.0:snort,1.0:actively,1.0

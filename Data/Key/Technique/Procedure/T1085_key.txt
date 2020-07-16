@@ -1,0 +1,1 @@
+named pipes,4.0:zxshell,1.0:rundll32,1.0:exe,1.0:execute,1.0:dlls,1.0

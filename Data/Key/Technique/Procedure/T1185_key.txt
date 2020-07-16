@@ -1,0 +1,1 @@
+steal sensitive online banking information,23.5:injected html codes,9.0:banking sites,5.5:ursnif,1.0:usernames,1.0:passwords,1.0

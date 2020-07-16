@@ -1,0 +1,1 @@
+clear system event logs,16.0:zxshell,1.0:command,1.0

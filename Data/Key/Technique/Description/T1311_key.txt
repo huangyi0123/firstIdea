@@ -1,0 +1,1 @@
+dynamic dns,4.0:automatically updating,4.0:dns system,4.0:providers offer,4.0:rapid reconfiguration,4.0:method,1.0:ips,1.0:hostnames,1.0:service,1.0

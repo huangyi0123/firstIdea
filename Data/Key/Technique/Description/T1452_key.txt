@@ -1,0 +1,1 @@
+manipulate app store rankings,16.0:triggering application downloads,9.0:posting fake reviews,9.0:requires privileged access,8.0:compromised device,4.0:jailbroken device,4.0:access,2.0:adversary,1.0:credentials,1.0:attempt,1.0:ratings,1.0:applications,1.0:technique,1.0:rooted,1.0

@@ -1,0 +1,1 @@
+standard windows library chosen,16.0:usbstealer sets,4.0:dropper files,4.0:write timestamps,3.5:timestamps,1.5:access,1.0:system,1.0

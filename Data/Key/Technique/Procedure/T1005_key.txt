@@ -1,0 +1,1 @@
+yty collects files,9.0:c2 server,4.0:extensions,1.0:ppt,1.0:pptx,1.0:pdf,1.0:doc,1.0:docx,1.0:xls,1.0:xlsx,1.0:docm,1.0:rtf,1.0:inp,1.0:xlsm,1.0:csv,1.0:odt,1.0:pps,1.0:vcf,1.0:sends,1.0:back,1.0

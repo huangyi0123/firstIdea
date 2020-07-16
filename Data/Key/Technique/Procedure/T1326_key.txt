@@ -1,0 +1,1 @@
+legitimate websites hosted,8.5:apt1 hijacked fqdns,7.0:legitimate reason,4.5:hop points,4.0:mandiant considers,4.0:originally registered,4.0:malicious purposes,4.0:hijacked,2.0:apt1,2.0

@@ -1,0 +1,1 @@
+utilize additional tools,8.5:include tools,4.5:end goals,4.0:move laterally,4.0:exfiltrate data,4.0:destroy data,4.0:compromise,1.0:adversary,1.0:facilitate,1.0:explore,1.0:system,1.0:network,1.0

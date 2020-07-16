@@ -1,0 +1,1 @@
+possibly bypassing defenses,9.0:execution scripts,4.0:execute malware,4.0:apt32,1.0:pubprn,1.0:vbs,1.0

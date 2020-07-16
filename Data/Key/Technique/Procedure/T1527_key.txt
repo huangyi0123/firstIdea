@@ -1,0 +1,1 @@
+abused oauth access tokens,15.0:target email accounts,9.0:gain access,5.0:malicious applications,4.0:including gmail,4.0:yahoo mail,4.0:apt28,1.0

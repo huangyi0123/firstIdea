@@ -1,0 +1,1 @@
+functions including arp poisoning,16.0:created customized tools,9.0:network interface sniffing,9.0:credential dumping,4.0:net shells,4.0:web backdoors,4.0:process enumeration,4.0:wmi querying,4.0:smb communications,4.0:keystroke logging,4.0:cleaver,1.0:payloads,1.0:encryption,1.0:asp,1.0:http,1.0

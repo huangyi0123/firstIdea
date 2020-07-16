@@ -1,0 +1,1 @@
+zeus panda checks,9.0:firewall products,4.0:anti,1.0:virus,1.0:spyware,1.0:installed,1.0:victim,1.0:environment,1.0

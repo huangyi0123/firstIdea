@@ -1,0 +1,1 @@
+cobalt strike,4.0:spawn processes,4.0:alternate ppids,4.0

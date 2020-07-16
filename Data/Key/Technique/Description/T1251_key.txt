@@ -1,0 +1,1 @@
+computing resource,4.0:domain names,4.0:ip addresses,4.0:authorized organization,4.0:accessible,1.0:public,1.0:registered,1.0

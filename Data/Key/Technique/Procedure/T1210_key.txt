@@ -1,0 +1,1 @@
+remote systems,4.0:wannacry,1.0:exploit,1.0:smbv1,1.0:spread,1.0:network,1.0

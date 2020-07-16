@@ -1,0 +1,1 @@
+registry key hklm\system\currentcontrolset\services\sharedaccess\parameters\firewallpolicy\standardprofile,100.0:killing av products,9.0:zxshell,1.0:disable,1.0:firewall,1.0:modifying,1.0:processes,1.0

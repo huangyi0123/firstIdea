@@ -1,0 +1,1 @@
+provide contact information,7.833333333333334:provide information,4.833333333333334:provide insight,4.333333333333334:job postings,4.0:company sites,4.0:organizational structure,4.0:security weaknesses,4.0:protection mechanisms,4.0:forums,1.0:organization,1.0:give,1.0:adversaryinformation,1.0:technologies,1.0:valuable,1.0:attack,1.0:limitations,1.0:detection,1.0

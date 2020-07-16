@@ -1,0 +1,1 @@
+3rd party vendor,9.0:main target,4.0:identified,1.0:interest,1.0:probed,1.0:vulnerabilities,1.0

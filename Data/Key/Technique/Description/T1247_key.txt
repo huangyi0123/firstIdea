@@ -1,0 +1,1 @@
+open source intelligence,8.5:intelligence gathered,4.5:information gathered,4.0:search engines,4.0:physical world,4.0:osint,1.0:publicly,1.0:sources,1.0:include,1.0:line,1.0

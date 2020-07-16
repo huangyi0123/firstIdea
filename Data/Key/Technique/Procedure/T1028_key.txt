@@ -1,0 +1,1 @@
+enable remote execution,9.0:threat group,4.0:winrm,1.0

@@ -1,0 +1,1 @@
+shell_traywnd extra window memory,16.0:power loader overwrites explorer,14.5:redirect execution,4.0:ntdll function,4.0:oriented programming,4.0:malicious thread,4.0:explorer,2.5:abused,1.0:assemble,1.0:execute,1.0:return,1.0:rop,1.0:chain,1.0:create,1.0:exe,1.0

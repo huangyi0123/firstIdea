@@ -1,0 +1,1 @@
+joint infrastructure,4.0:business processes,4.0:unusual requests,4.0:standard practices,4.0:mergers,1.0:divestitures,1.0:period,1.0:change,1.0:opportunity,1.0:exploitation,1.0:type,1.0:churn,1.0:noticeable,1.0

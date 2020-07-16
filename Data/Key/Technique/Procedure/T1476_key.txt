@@ -1,0 +1,1 @@
+zerghelper abuses enterprises certificate,16.0:personal certificates,4.0:distribute apps,4.0:sign,1.0

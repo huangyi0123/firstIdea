@@ -1,0 +1,1 @@
+test physical access options,15.0:noting security precautions,9.0:attempting access,5.0:actual attack,4.0:observing behaviors,4.0:anadversary,1.0:preparation,1.0:range,1.0

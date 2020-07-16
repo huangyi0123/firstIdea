@@ -1,0 +1,1 @@
+compromise 3rd party,9.0:source vulnerability/exploit information,9.0:closed,1.0

@@ -1,0 +1,1 @@
+escalated privileges,4.0:init script,4.0:boot partition,4.0:maintain persistence,4.0:oldboot,1.0:modify,1.0:device,1.0

@@ -1,0 +1,1 @@
+accessible physical,4.0:logical drives,4.0:infected machine,4.0:stonedrill,1.0:wipe,1.0

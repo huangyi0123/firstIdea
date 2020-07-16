@@ -1,0 +1,1 @@
+windows store,4.0:rtm,1.0:add,1.0:certificate,1.0

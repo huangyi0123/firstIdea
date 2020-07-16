@@ -1,0 +1,1 @@
+remote desktop protocol sessions,16.0:graphical user interface,9.0:compromised systems,4.0:copy files,4.0:apt3,1.0:interacted,1.0:browse,1.0

@@ -1,0 +1,1 @@
+wingbird exploits cve,9.0:gain escalated privileges,9.0:executable,1.0

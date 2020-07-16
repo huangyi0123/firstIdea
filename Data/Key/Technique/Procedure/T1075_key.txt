@@ -1,0 +1,1 @@
+soft cell,4.0:dumped hashes,4.0:authenticate,1.0:machines,1.0:pass,1.0:hash,1.0

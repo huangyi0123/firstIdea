@@ -1,0 +1,1 @@
+launch remote scripts,9.0:zeus panda,4.0:victim,1.0:machine,1.0

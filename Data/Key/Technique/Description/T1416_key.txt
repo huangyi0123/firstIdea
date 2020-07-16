@@ -1,0 +1,1 @@
+receive intents meant,9.0:receive sensitive values,9.0:oauth authorization codes,9.0:malicious app,4.0:register,1.0:applications,1.0

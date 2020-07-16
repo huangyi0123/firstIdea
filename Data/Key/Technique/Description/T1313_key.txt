@@ -1,0 +1,1 @@
+creating communications,3.5:encryption transforms,3.5:communications,1.5:encryption,1.5:obfuscation,1.0:act,1.0:difficult,1.0:understand,1.0:requires,1.0:key,1.0:reverse,1.0

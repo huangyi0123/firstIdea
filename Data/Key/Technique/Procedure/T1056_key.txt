@@ -1,0 +1,1 @@
+remote computer,4.0:zxshell,1.0:feature,1.0:capture,1.0:keystrokes,1.0:keylogger,1.0

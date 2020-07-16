@@ -1,0 +1,1 @@
+network shares,4.0:move laterally,4.0:zwshell,1.0:copied,1.0

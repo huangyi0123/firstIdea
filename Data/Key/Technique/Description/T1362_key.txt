@@ -1,0 +1,1 @@
+previously compromised infrastructure,9.0:systems legitimately,4.0:stage software,3.5:software,1.5:adversary,1.0:tools,1.0:stages,1.0:attack,1.0

@@ -1,0 +1,1 @@
+dynamic dns,4.0:temp,1.0:veles,1.0

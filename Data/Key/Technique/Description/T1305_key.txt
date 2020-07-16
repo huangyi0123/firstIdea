@@ -1,0 +1,1 @@
+services display alternative information,15.5:displays contact information,9.5:publicly viewable database,9.0:domain registrar maintains,8.0:registered domain,4.0:company data,4.0:domain,2.0:private,1.0:whois,1.0:owner,1.0

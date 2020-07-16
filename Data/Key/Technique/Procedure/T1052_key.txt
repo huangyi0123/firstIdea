@@ -1,0 +1,1 @@
+usbstealer exfiltrates collected files,16.0:removable media,4.0:gapped victims,4.0:air,1.0

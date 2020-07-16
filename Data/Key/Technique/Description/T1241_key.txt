@@ -1,0 +1,1 @@
+iterative target selection process,14.0:high level target,9.5:expand outward,4.0:commercial sector,4.0:adversary undergoes,3.5:process,2.5:adversary,1.5:begin,1.0:broadly,1.0:narrow,1.0:specifics,1.0:strategic,1.0:tactical,1.0:narrowly,1.0:part,1.0:determine,1.0:attack,1.0:country,1.0:government,1.0

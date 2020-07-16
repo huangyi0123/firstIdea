@@ -1,0 +1,1 @@
+designated c2 server,9.0:http post requests,9.0:exfiltrated data,4.0:zebrocy,1.0

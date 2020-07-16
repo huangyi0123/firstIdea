@@ -1,0 +1,1 @@
+attached peripheral devices,9.0:components connected,4.0:network environment,4.0:gather information,3.5:computer system,3.5:information,1.5:system,1.5:adversaries,1.0:attempt,1.0:enhance,1.0:awareness,1.0:actions,1.0

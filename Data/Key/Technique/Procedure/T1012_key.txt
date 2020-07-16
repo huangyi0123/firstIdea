@@ -1,0 +1,1 @@
+svchost group registry key,15.0:netsvc group,5.0:data located,4.0:zxshell,1.0:query,1.0

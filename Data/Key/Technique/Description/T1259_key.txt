@@ -1,0 +1,1 @@
+network trusts enable communications,13.666666666666666:virtual private networks,8.0:network trusts,5.666666666666666:domain trusts,4.666666666666666:specific accesses,4.0:networks,2.0:permissions,1.0:include,1.0:implementation,1.0:vpns,1.0

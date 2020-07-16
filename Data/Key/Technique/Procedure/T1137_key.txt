@@ -1,0 +1,1 @@
+outlook rules,4.0:home pages,4.0:establish persistence,4.0:ruler,1.0:automate,1.0:abuse,1.0:forms,1.0

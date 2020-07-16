@@ -1,0 +1,1 @@
+usbstealer drops,4.0:removable media,4.0:malicious file,4.0:user opens,4.0:relies,1.0:autorun,1.0:execute,1.0:system,1.0

@@ -1,0 +1,1 @@
+generate fraudulent clicks,8.5:generate revenue,4.5:infected devices,4.0:judy,1.0:advertisements,1.0

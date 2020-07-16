@@ -1,0 +1,1 @@
+path interception opportunities,9.0:powerup modules,4.0:powersploit,1.0:collection,1.0:privesc,1.0:discover,1.0:exploit,1.0:services,1.0:processes,1.0:variables,1.0

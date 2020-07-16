@@ -1,0 +1,1 @@
+create fraudulent statistics inside,16.0:official google play store,16.0:hummingbad,1.0

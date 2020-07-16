@@ -1,0 +1,1 @@
+maliciously encrypted victim,9.0:database systems,4.0:cryptocurrency ransom,4.0:xbash,1.0:demanded,1.0:paid,1.0

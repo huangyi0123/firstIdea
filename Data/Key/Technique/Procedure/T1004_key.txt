@@ -1,0 +1,1 @@
+registry key hkcu\software\microsoft\windows nt\currentversion,64.0:turla established persistence,9.0:adding,1.0:shell,1.0:winlogon,1.0

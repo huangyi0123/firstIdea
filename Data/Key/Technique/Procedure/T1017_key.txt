@@ -1,0 +1,1 @@
+apt32 compromised mcafee epo,16.0:software deployment task,9.0:move laterally,4.0:distributing malware,4.0

@@ -1,0 +1,1 @@
+gather information,4.0:domain trusts,4.0:utilizing nltest,4.0:trickbot,1.0

@@ -1,0 +1,1 @@
+mcafee email protection,9.0:targeted yahoo users,8.5:google email protection,8.333333333333334:gmail users,4.5:google defender,4.333333333333334:google scanner,4.333333333333334:malicious applications,4.0:applications masquerading,4.0:delivery service,4.0:apt28,1.0

@@ -1,0 +1,1 @@
+operating system details,9.0:total physical memory,9.0:local hostname,4.0:cpu speed,4.0:zxshell,1.0:collect,1.0

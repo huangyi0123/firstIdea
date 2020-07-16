@@ -1,0 +1,1 @@
+rotexy hides,4.0:icon,1.0:launch,1.0

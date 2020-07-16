@@ -1,0 +1,1 @@
+android broadcast receiver,9.0:spynote rat,4.0:automatically start,4.0:device boots,4.0

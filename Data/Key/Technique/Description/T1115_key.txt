@@ -1,0 +1,1 @@
+collect data stored,9.0:users copying information,9.0:access clipboard data,8.666666666666666:grab clipboard contents,8.666666666666666:windows clipboard,4.666666666666666:windows api,4.0:native command,4.0:adversaries,1.0:applications,1.0:windowsapplications,1.0:macosx,1.0:pbpaste,1.0

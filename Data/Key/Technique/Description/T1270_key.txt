@@ -1,0 +1,1 @@
+role withelectronic specialized access,16.0:personnel internally,4.0:attractive target,4.0:system administrator,4.0:company,1.0:belong,1.0:group,1.0:maintain,1.0:authorities,1.0:privilege,1.0:make,1.0:adversary,1.0

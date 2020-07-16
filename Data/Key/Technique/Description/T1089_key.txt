@@ -1,0 +1,1 @@
+deleting registry keys,9.0:killing security software,8.666666666666666:event logging processes,8.5:disable security tools,7.333333333333333:security scanning,4.666666666666666:event reporting,4.5:run time,4.0:tools,1.6666666666666667:adversaries,1.0:avoid,1.0:detection,1.0:activities,1.0:form,1.0:start,1.0:methods,1.0:interfere,1.0

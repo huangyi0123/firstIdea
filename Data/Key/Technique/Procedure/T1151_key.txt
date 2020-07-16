@@ -1,0 +1,1 @@
+keydnap puts,4.0:jpg extension,4.0:app program,4.0:space,1.0:false,1.0:execution,1.0:terminal,1.0

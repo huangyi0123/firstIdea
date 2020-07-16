@@ -1,0 +1,1 @@
+trusted certificate store,9.0:install attacker,4.0:perform man,4.0:middle attacks,4.0:monokle,1.0:certificates,1.0:device,1.0:enabling,1.0:adversary,1.0

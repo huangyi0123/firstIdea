@@ -1,0 +1,1 @@
+operating system privilege escalation attack,23.5:obtain private keys,9.0:sensitive data stored,9.0:system log,5.0:malicious application,4.0:read_logs permission,4.0:android prior,3.5:android 4,1.5:log,1.5:versions,1.0:adversary,1.0:holds,1.0:passwords,1.0:credentials,1.0:device,1.0:attempt,1.0:perform,1.0:access,1.0

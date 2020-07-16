@@ -1,0 +1,1 @@
+setup booter/stressor services,9.0:server stress testing,9.0:enable denial,4.0:service attacks,4.0:configure,1.0:intended,1.0

@@ -1,0 +1,1 @@
+publicly publish results,9.0:virus total,4.0:internal infrastructure,4.0:malicious emails,3.5:similar services,3.5:services,1.5:emails,1.5:adversary,1.0:test,1.0:detections,1.0:files,1.0:usingpublicly,1.0:alert,1.0:openly,1.0:don,1.0

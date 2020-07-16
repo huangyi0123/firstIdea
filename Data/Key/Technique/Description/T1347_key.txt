@@ -1,0 +1,1 @@
+configuring previously exploited environments,15.5:include multiple activities,9.0:registering domain names,9.0:renting hosting space,9.0:configuring delivery systems,8.5:delivery systems,5.0:host malware,4.0:infrastructure,1.0:adversary,1.0:tools,1.0:exploitation,1.0:building,1.0

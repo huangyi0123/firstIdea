@@ -1,0 +1,1 @@
+procedurally generate domain names,15.5:domain generation algorithms,9.5:malicious application distribution,9.0:control communication,4.0:control channel,4.0:dgas increase,3.5:dgas,1.5:adversaries,1.0:command,1.0:difficulty,1.0:defenders,1.0:block,1.0:track,1.0:potentially,1.0:thousands,1.0:domains,1.0:malware,1.0:check,1.0:instructions,1.0

@@ -1,0 +1,1 @@
+lnk file icon resources,16.0:gathered hashed user credentials,15.0:external resource links,9.0:collect credentials,5.0:spearphishing attachments,4.0:virtualized systems,4.0:dragonfly 2,1.0:smb,1.0:modifying,1.0

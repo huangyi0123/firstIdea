@@ -1,0 +1,1 @@
+limit unauthorized network traffic,16.0:security defensive capabilities,9.0:designed,1.0:stop,1.0:types,1.0:accesses,1.0

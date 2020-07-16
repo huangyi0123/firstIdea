@@ -1,0 +1,1 @@
+seaduke samples,4.0:module,1.0:pass,1.0:ticket,1.0:kerberos,1.0:authentication,1.0

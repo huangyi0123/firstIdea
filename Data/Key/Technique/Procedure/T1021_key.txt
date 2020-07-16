@@ -1,0 +1,1 @@
+zxshell supports functionality,9.0:vnc sessions,4.0

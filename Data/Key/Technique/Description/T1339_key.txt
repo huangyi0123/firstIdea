@@ -1,0 +1,1 @@
+system failures,4.0:facilitates recovery,4.0:longer viable,4.0:backup infrastructure,3.666666666666667:primary infrastructure,3.666666666666667:infrastructure,1.6666666666666667:adversary,1.0:recover,1.0:environmental,1.0:movement,1.0:discovered,1.0

@@ -1,0 +1,1 @@
+analyze architecture,4.0:configuration posture,4.0

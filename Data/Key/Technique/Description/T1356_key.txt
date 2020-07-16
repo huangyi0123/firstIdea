@@ -1,0 +1,1 @@
+malware communications seeking instructions,13.0:callback software,4.0:malware,2.5:instructions,2.5:callbacks,1.0:adversary,1.0:test,1.0:ensure,1.0:conveyed,1.0:reached,1.0

@@ -1,0 +1,1 @@
+zeus panda encrypts strings,12.5:zeus panda,6.0:macro code,4.0:initial payload,4.0:encrypts,2.5:xor,1.0:obfuscates,1.0:configuration,1.0:settings,1.0:aes,1.0:rc4,1.0

@@ -1,0 +1,1 @@
+hard drives,4.0:equation,1.0:capability,1.0:overwrite,1.0:firmware,1.0:manufacturers,1.0

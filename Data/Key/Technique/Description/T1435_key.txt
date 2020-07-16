@@ -1,0 +1,1 @@
+call standard operating system apis,25.0:gather calendar entry data,14.0:directly access files,9.0:calendar data,6.0:malicious application,4.0:escalated privileges,4.0:adversary,1.0

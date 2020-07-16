@@ -1,0 +1,1 @@
+zxshell,1.0:command,1.0:ps,1.0:obtain,1.0:listing,1.0:processes,1.0:system,1.0

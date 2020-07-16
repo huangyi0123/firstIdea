@@ -1,0 +1,1 @@
+attacks incorporating social engineering,16.0:impersonate real people,9.0:single site,4.0:multiple sites,4.0:line persona,3.5:persona,1.5:utilization,1.0:important,1.0:personas,1.0:fictitious,1.0:exist,1.0:facebook,1.0:linkedin,1.0:twitter,1.0:google+,1.0

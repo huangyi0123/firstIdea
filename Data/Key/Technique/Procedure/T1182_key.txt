@@ -1,0 +1,1 @@
+appcertdlls registry key,9.0:punchbuggy,1.0:establish,1.0

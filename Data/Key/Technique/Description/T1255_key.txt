@@ -1,0 +1,1 @@
+online identification typically share,16.0:makes guessing,4.0:domain easier,4.0:email addresses,3.666666666666667:email address,3.666666666666667:logon credentials,3.5:common format,3.5:email,1.6666666666666667:credentials,1.5:format,1.5:forms,1.0:@company,1.0:company,1.0

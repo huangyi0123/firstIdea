@@ -1,0 +1,1 @@
+domain registration hijacking,7.0:original registrant,4.0:registration,2.0:domain,2.0:act,1.0:changing,1.0:permission,1.0

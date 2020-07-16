@@ -1,0 +1,1 @@
+gain illegal entrance,9.0:cpu chip,4.0:electronic device,4.0:production,1.0:distribution,1.0:placement,1.0:software,1.0:firmware,1.0:computer,1.0:handheld,1.0:enables,1.0:adversary,1.0

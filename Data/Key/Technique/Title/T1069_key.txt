@@ -1,0 +1,1 @@
+permission groups discovery,9.0

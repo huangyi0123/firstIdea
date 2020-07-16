@@ -1,0 +1,1 @@
+brute force services,8.5:brute forcing,4.5:weak passwords,4.0:c2 server,4.0:open ports,4.0:xbash,1.0:obtain,1.0:list,1.0:attempt,1.0

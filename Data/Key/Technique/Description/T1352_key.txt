@@ -1,0 +1,1 @@
+compromised web sites,9.0:centralized server,4.0:social media,4.0:adversary communicates,3.5:execute c2,3.5:c2,1.5:adversary,1.5:command,1.0:control,1.0:method,1.0:malware,1.0:variety,1.0:protocols,1.0:methods,1.0:peer,1.0:irc,1.0

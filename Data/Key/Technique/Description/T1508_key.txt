@@ -1,0 +1,1 @@
+special permissions,4.0:bankbot/spy banker,4.0:simbad families,4.0:malicious application,3.5:application launcher,3.5:icon programmatically,3.5:icon,1.5:application,1.5:suppress,1.0:displayed,1.0:user,1.0:hide,1.0:fact,1.0:installed,1.0:make,1.0:difficult,1.0:uninstall,1.0:hiding,1.0:require,1.0:behavior,1.0:malware,1.0

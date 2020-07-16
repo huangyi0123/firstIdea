@@ -1,0 +1,1 @@
+capture clipboard data,9.0

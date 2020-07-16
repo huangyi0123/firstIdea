@@ -1,0 +1,1 @@
+graphical user interfaces,9.0:remote interactive session,9.0:remote desktop protocol,9.0:windows run command,8.0:line interface,4.0:execute files,4.0:mouse double,4.0:click events,4.0:potentially difficult,4.0:monitor interactions,4.0:operating system,3.5:command,2.0:system,1.5:gui,1.0:common,1.0:interact,1.0:adversaries,1.0:operation,1.0:commonly,1.0:search,1.0:information,1.0

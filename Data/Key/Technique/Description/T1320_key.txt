@@ -1,0 +1,1 @@
+dns tunneling,4.0:header inject,4.0:hide data,4.0:hiding data,4.0:network protocols,4.0:steganography techniques,4.0:file formats,4.0:defined fields,3.5:fields,1.5:types,1.0:traffic,1.0:user,1.0:addition,1.0:images,1.0:detection,1.0:difficult,1.0:signature,1.0

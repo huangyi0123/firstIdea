@@ -1,0 +1,1 @@
+dynamic dns,4.0:register hundreds,4.0:apt1,1.0:fqdns,1.0

@@ -1,0 +1,1 @@
+dll search order hijacking,14.333333333333334:webc2 achieve persistence,9.0:dll file,4.333333333333334:\windows\ntshrui,4.0:dll,2.3333333333333335:variants,1.0:copying,1.0:%systemroot%,1.0

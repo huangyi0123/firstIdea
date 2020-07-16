@@ -1,0 +1,1 @@
+analyze technical scanning results,16.0:improper security controls,9.0:victim network,4.0:includearchitectural flaws,4.0:identify weaknesses,3.5:weaknesses,1.5:adversary,1.0:configuration,1.0:architecture,1.0:misconfigurations,1.0

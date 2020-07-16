@@ -1,0 +1,1 @@
+hkey_local_machine\software\microsoft\windows nt\currentversion\image file execution options,100.0:added entries,4.0:maintain persistence,4.0:temp,1.0:veles,1.0:modified,1.0

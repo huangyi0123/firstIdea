@@ -1,0 +1,1 @@
+call standard operating system apis,23.5:gather call log data,13.166666666666666:call log data,9.166666666666666:directly access files,7.666666666666667:call log,6.5:malicious application,4.0:escalated privileges,4.0:privilege escalation,4.0:data,2.6666666666666665:access,1.6666666666666667:android,1.0:adversary,1.0:ios,1.0:applications,1.0:required,1.0:order,1.0

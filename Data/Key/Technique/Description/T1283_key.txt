@@ -1,0 +1,1 @@
+shape social engineering attempts,16.0:exploiting network trust relationship,14.0:business relationship information,9.5:target expects,4.0:technical actions,4.0:exploiting,2.5:adversary,1.0:hear,1.0:plan,1.0

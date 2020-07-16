@@ -1,0 +1,1 @@
+collect application data resident,14.5:target popular applications,9.0:external storage directory,9.0:insecure file permissions,8.333333333333334:insecure manner,4.333333333333334:insecure location,4.333333333333334:technique requires,4.0:escalated privileges,4.0:targeted app,4.0:data,2.5:adversaries,1.0:access,1.0:device,1.0:facebook,1.0:wechat,1.0:gmail,1.0:stored,1.0

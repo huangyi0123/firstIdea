@@ -1,0 +1,1 @@
+technology usage patterns include identifying,25.0:users work offsite,9.0:restricted/secured access techniques,9.0:connect remotely,4.0:possibly,1.0

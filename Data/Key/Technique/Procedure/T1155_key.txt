@@ -1,0 +1,1 @@
+login item,4.0:dok,1.0:applescript,1.0:create,1.0:persistence,1.0

@@ -1,0 +1,1 @@
+key intelligence toptic,9.0:key intelligence question,9.0:increased intelligence collection,9.0:leadership conducts,4.0:cost/benefit analysis,4.0:information gathering,4.0:adversary compares,4.0:cyber intrusions,4.0:expected benefits,4.0:cyber adversaries,4.0:generates,1.0:compelling,1.0:triggers,1.0:kit,1.0:kiq,1.0:cost,1.0

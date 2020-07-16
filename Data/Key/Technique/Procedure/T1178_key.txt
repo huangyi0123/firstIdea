@@ -1,0 +1,1 @@
+generated kerberos golden tickets,16.0:addsid module,4.0:user/group account,4.0:single domain,4.0:history injection,3.5:utilizes sid,3.333333333333333:history,1.5:sid,1.3333333333333333:mimikatz,1.0:misc,1.0:appended,1.0:user,1.0:expand,1.0:scope,1.0:components,1.0:dcsync,1.0

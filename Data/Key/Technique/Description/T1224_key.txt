@@ -1,0 +1,1 @@
+generates key intelligence topics,15.0:key intelligence questions,10.0:closed source reporting,9.0:leadership assesses,4.0:areas,1.0:interest,1.0:kit,1.0:kiq,1.0:adversary,1.0:open,1.0:cyber,1.0:resulting,1.0

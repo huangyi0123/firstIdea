@@ -1,0 +1,1 @@
+system network configuration discovery,16.0

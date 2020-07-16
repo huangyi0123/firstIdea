@@ -1,0 +1,1 @@
+outsourced/partner organization information,8.5:company providing goods,8.0:outsourced/partner organizations,4.5:technical connections,4.0:provide opportunities,4.0:company,2.0:outsourcing,1.0:arrangement,1.0:services,1.0:house,1.0:avenue,1.0:adversary,1.0:target,1.0:businesses,1.0:networks,1.0:portals,1.0:exploited,1.0:additionally,1.0:phishing,1.0

@@ -1,0 +1,1 @@
+3rd party infrastructure services,14.666666666666666:virtual private services,8.666666666666666:wide variety,4.0:storage solutions,4.0:services,2.6666666666666665:cloud,1.0:hosting,1.0:compute,1.0:provide,1.0:adversary,1.0:avenue,1.0:approach,1.0:compromise,1.0

@@ -1,0 +1,1 @@
+utilize existing rats,9.0:modify existing rats,9.0:remote access tool,8.0:remote user,4.5:physical access,4.5:rat,1.0:piece,1.0:software,1.0:control,1.0:system,1.0:adversary,1.0:create,1.0

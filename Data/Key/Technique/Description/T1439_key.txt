@@ -1,0 +1,1 @@
+mobile device,4.0:remote servers,4.0:insecure manner,4.0:adversary positioned,4.0:network traffic,3.5:network,1.5:unencrypted,1.0:encrypted,1.0:eavesdrop,1.0:communication,1.0

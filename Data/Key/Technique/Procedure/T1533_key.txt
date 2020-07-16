@@ -1,0 +1,1 @@
+tangelo accesses browser history,16.0:pictures,1.0:videos,1.0

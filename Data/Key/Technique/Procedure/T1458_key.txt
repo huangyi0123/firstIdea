@@ -1,0 +1,1 @@
+automatically generated malicious applications,15.0:ios devices connected,9.0:infected osx computer,9.0:party applications,5.0:wirelurker monitors,4.0:installs downloaded,4.0:usb,1.0:device,1.0

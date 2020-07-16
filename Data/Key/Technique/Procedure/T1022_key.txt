@@ -1,0 +1,1 @@
+encryption method similar,9.0:encrypt data,4.0:zebrocy,1.0:rc4,1.0:aes,1.0:exfiltration,1.0

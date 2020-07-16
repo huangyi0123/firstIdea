@@ -1,0 +1,1 @@
+perform uac bypass,9.0:zerot samples,4.0:malicious file,4.0:eventvwr,1.0:exe,1.0:execute,1.0

@@ -1,0 +1,1 @@
+sms message,4.0:web site,4.0:malicious code,4.0:pegasus,1.0:ios,1.0:delivered,1.0:link,1.0

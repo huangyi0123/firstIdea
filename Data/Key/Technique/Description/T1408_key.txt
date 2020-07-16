@@ -1,0 +1,1 @@
+polymorphic code techniques,8.0:security software,4.0:evade detection,4.0:evade signature,4.0:based detection,4.0:techniques,2.0:adversary,1.0:knowledge,1.0:searching,1.0:artifacts,1.0:installed,1.0:su,1.0:binary,1.0:check,1.0:evaded,1.0:naming,1.0:similarly,1.0

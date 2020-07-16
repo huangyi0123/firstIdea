@@ -1,0 +1,1 @@
+interactive command shells,9.0:central location,4.0:directory prior,4.0:separate files,4.0:common functionality,4.0:staging location,4.0:collected data,3.8:data compressed,3.8:data encrypted,3.8:copy data,3.8:data,1.8:staged,1.0:exfiltration,1.0:combined,1.0:file,1.0:techniques,1.0:cmd,1.0:bash,1.0

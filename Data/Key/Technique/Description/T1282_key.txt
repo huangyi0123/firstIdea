@@ -1,0 +1,1 @@
+shape social engineering attempts,16.0:physical locality information,8.5:physical actions,4.5:dumpster diving,4.0:adversary,1.0:language,1.0:culture,1.0:events,1.0:weather,1.0:plan,1.0:attempting,1.0:access,1.0:facility,1.0

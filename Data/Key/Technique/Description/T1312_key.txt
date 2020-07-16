@@ -1,0 +1,1 @@
+renting infrastructure,4.0:compromise infrastructure,4.0:attack cycle,4.0:buying,1.0:leasing,1.0:adversary,1.0

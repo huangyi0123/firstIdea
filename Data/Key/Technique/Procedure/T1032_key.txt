@@ -1,0 +1,1 @@
+encrypt c2 traffic,9.0:zerot,1.0:rc4,1.0

@@ -1,0 +1,1 @@
+users full access controls,16.0:attrib +,4.0:files hidden,4.0:wannacry,1.0:icacls,1.0:/grant,1.0:make,1.0:grant,1.0

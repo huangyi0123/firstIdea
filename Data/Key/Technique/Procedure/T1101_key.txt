@@ -1,0 +1,1 @@
+ssp persistence module,8.5:ssp dll,4.5:powersploit,1.0:install,1.0:establish,1.0:installing,1.0

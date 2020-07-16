@@ -1,0 +1,1 @@
+create custom payloads,9.0:malicious action,4.0:needed capability,4.0:specific environment,4.0:payload,1.0:part,1.0:malware,1.0:performs,1.0:adversary,1.0:exist,1.0:targeting,1.0

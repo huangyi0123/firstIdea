@@ -1,0 +1,1 @@
+onboard network interfaces,9.0:gather related information,9.0:android telephonymanager class,7.5:networkinterface class,4.5:phone number,4.0:android,2.0:details,1.0:accessible,1.0:apps,1.0:java,1.0:net,1.0:imsi,1.0:imei,1.0

@@ -1,0 +1,1 @@
+initial dns request,8.5:dns calc,4.5:ip address,4.0:portfor command,4.0:control servers,4.0:technique,1.0:octets,1.0:calculate,1.0

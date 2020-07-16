@@ -1,0 +1,1 @@
+identify sensitive personnel information,16.0:social media site,9.0:law enforcement infractions,9.0:searching public records,9.0:low cost online,9.0:typically posted,4.0:marital status,4.0:financial history,4.0:adversary,1.0:address,1.0:conducted,1.0:frequently,1.0:free,1.0

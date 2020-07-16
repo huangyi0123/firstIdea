@@ -1,0 +1,1 @@
+windows remote management,9.0

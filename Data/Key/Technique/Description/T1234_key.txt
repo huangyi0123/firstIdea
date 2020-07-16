@@ -1,0 +1,1 @@
+receive key intelligence topics,14.666666666666668:key intelligence questions,9.666666666666668:key decision makers,9.333333333333334:generate intelligence requirements,9.333333333333334:articulate intricacies,4.0:information required,4.0:analysts,1.0:kits,1.0:kiqs,1.0:leadership,1.0:topic,1.0:question,1.0

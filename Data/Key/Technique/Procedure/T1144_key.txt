@@ -1,0 +1,1 @@
+cointicker downloads,4.0:eggshell mach,4.0:quarantine flag,4.0:binary,1.0:curl,1.0:set,1.0

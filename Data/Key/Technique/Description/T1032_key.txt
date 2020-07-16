@@ -1,0 +1,1 @@
+inherent protections provided,9.0:malware samples/configuration files,9.0:explicitly employ,4.0:encryption algorithm,4.0:conceal command,4.0:control traffic,4.0:communication protocol,4.0:secure algorithm,4.0:reverse engineering,4.0:secret keys,4.0:adversaries,1.0:relying,1.0:implementations,1.0:vulnerable,1.0:encoded,1.0:generated,1.0

@@ -1,0 +1,1 @@
+removable media,4.0:supply chain,4.0:small scale,4.0:targeted manner,4.0:user utilize,4.0:gain access,4.0:malware,1.0:injected,1.0:large,1.0:physically,1.0:find,1.0:intent,1.0:system,1.0:adversary,1.0

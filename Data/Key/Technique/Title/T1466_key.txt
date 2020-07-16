@@ -1,0 +1,1 @@
+insecure protocols,4.0:downgrade,1.0

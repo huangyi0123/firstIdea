@@ -1,0 +1,1 @@
+poor opsec practices,9.0:identify people,4.0:inherent weakness,4.0:indirect targeting,4.0:include individuals,4.0:trusted relationship,4.0:intended target,4.0:attempt,1.0:interest,1.0:direct,1.0:determine,1.0:approach,1.0:compromise,1.0:person,1.0:organization,1.0:targets,1.0

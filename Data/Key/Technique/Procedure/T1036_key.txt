@@ -1,0 +1,1 @@
+resource version information,9.0:legitimate realtek semiconductor,9.0:zlib mimics,4.0:synaptics modules,4.0:nvidia,1.0

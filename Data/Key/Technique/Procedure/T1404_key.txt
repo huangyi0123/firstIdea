@@ -1,0 +1,1 @@
+gain root privilege,9.0:maintain persistence,4.0:spydealer,1.0:victim,1.0

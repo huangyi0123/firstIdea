@@ -1,0 +1,1 @@
+detached network shares,9.0:threat group,4.0:exfiltrating files,4.0:evade detection,4.0

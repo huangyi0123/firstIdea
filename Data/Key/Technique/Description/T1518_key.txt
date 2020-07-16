@@ -1,0 +1,1 @@
+adversary fully infects,9.0:attempts specific actions,9.0:security related software,8.5:software discovery,4.5:automated discovery,4.0:shape follow,4.0:adversaries,1.0:attempt,1.0:listing,1.0:installed,1.0:system,1.0:information,1.0:behaviors,1.0:including,1.0:target,1.0

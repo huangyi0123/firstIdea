@@ -1,0 +1,1 @@
+zxshell,1.0:http,1.0:ftp,1.0:connections,1.0

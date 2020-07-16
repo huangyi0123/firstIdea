@@ -1,0 +1,1 @@
+invoke jscript code,9.0:cobalt group,4.0:bypass applocker,4.0:xsl file,4.0:msxsl,1.0:exe,1.0

@@ -1,0 +1,1 @@
+paypal cash card,8.5:sd card,4.5:external storage,4.0:xbot,1.0:encrypt,1.0:victim,1.0:files,1.0:request,1.0:ransom,1.0

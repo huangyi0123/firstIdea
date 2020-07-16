@@ -1,0 +1,1 @@
+finfisher exfiltrates data,9.0:commonly,1.0:ports,1.0:ports 21,1.0

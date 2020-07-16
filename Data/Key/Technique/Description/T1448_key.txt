@@ -1,0 +1,1 @@
+requiring user consent,9.0:send sms messages,8.6:allowing sms messages,8.6:standard android apis,8.0:sms messages,5.6:malicious app,4.0:premium numbers,4.0:device owner,4.0:generate revenue,4.0:send_sms permission,4.0:android version 4,4.0:android,2.0:potentially,1.0:charge,1.0:adversary,1.0:ios,1.0:apps,1.0:hold,1.0:additionally,1.0:mitigations,1.0:threat,1.0

@@ -1,0 +1,1 @@
+linux rabbit maintains persistence,16.0:infected machine,4.0:bashrc files,4.0:rc,1.0:local,1.0

@@ -1,0 +1,1 @@
+****deprecation warning****,4.0:periodically generate,4.0:large number,4.0:domain names,4.0:rendezvous points,4.0:control servers,4.0:malware command,3.5:malware,1.5:algorithms,1.0:function,1.0

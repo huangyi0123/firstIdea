@@ -1,0 +1,1 @@
+gapped network compromise,9.0:external hard drive,8.5:final exfiltration point,8.0:usb drive,4.5:physical medium,4.0:cellular phone,4.0:mp3 player,4.0:removable storage,4.0:disconnected systems,4.0:device introduced,3.666666666666667:processing device,3.666666666666667:exfiltration,2.0:device,1.6666666666666667:circumstances,1.0:air,1.0:occur,1.0:user,1.0:media,1.0:hop,1.0

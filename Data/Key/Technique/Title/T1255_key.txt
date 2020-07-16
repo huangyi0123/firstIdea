@@ -1,0 +1,1 @@
+discover target logon/email address format,25.0

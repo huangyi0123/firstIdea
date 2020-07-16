@@ -1,0 +1,1 @@
+app vetting techniques,8.0:encrypted form,4.0:malicious code,3.5:app,2.0:code,1.5:obfuscated,1.0:deobfuscate,1.0:decrypt,1.0:runtime,1.0:evade,1.0

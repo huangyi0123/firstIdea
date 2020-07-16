@@ -1,0 +1,1 @@
+service control manager,8.0:modify existing service,7.5:existing service,4.5:windows services,4.0:service persistence,4.0:privilege escalation,4.0:service,2.0:adversaries,1.0:execute,1.0:binary,1.0:command,1.0:script,1.0:method,1.0:interacts,1.0:creating,1.0:modifying,1.0:technique,1.0:execution,1.0:conjunction,1.0

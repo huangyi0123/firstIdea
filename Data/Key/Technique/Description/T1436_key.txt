@@ -1,0 +1,1 @@
+network detection systems,9.0:normal network activity,9.0:commonly open ports,8.0:bypass firewalls,4.0:detailed inspection,4.0:commonly,2.0:adversaries,1.0:communicate,1.0:port,1.0:blend,1.0:avoid,1.0:astcp,1.0:http,1.0:tcp,1.0:https,1.0:smtp,1.0:tcp/udp,1.0:dns,1.0:protocol,1.0:completely,1.0

@@ -1,0 +1,1 @@
+generate fraudulent advertising revenue,15.0:triggering automatic clicks,9.0:advertising links,5.0:mobile devices,4.0:user involvement,4.0:adversary,1.0:seek,1.0

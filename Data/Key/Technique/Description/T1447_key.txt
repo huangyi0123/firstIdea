@@ -1,0 +1,1 @@
+abuse android device administrator access,21.333333333333336:delete specific files,9.0:external storage directories,9.0:delete individual files,9.0:entire device contents,8.833333333333334:entire device,5.833333333333334:malicious application,4.0:escalated privileges,4.0:access,3.0:adversary,1.0:wipe,1.0:obtain,1.0

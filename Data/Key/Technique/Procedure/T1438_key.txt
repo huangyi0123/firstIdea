@@ -1,0 +1,1 @@
+stealth mango,4.0:commands received,4.0:text messages,4.0:c2,1.0

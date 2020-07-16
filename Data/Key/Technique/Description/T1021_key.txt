@@ -1,0 +1,1 @@
+service specifically designed,9.0:accept remote connections,9.0:valid accounts,4.0:perform actions,4.0:adversary,1.0:log,1.0:telnet,1.0:ssh,1.0:vnc,1.0:logged,1.0:user,1.0

@@ -1,0 +1,1 @@
+zxshell,1.0:ports 1985,1.0:communication,1.0

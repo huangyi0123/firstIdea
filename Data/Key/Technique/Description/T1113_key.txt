@@ -1,0 +1,1 @@
+remote access tool,9.0:native command screencapture,9.0:native command xwd,9.0:screen capturing functionality,8.5:screen captures,4.5:gather information,4.0:compromise operations,4.0:macon osx,4.0:capture screenshots,4.0:linuxon linux,4.0:adversaries,1.0:attempt,1.0:desktop,1.0:operation,1.0:included,1.0:feature,1.0:post,1.0

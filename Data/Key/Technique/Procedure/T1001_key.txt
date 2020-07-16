@@ -1,0 +1,1 @@
+retrieved stage 2 payloads,9.0:bitmap images,4.0:significant bit,4.0:zerot,1.0:lsb,1.0:steganography,1.0

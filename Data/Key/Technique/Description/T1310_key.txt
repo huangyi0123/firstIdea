@@ -1,0 +1,1 @@
+digitally signing executables,8.5:signed piece,4.0:unsigned piece,4.0:code signing,3.75:software author,3.5:author,1.5:code,1.25:process,1.0:scripts,1.0:confirm,1.0:guarantee,1.0:altered,1.0:corrupted,1.0:users,1.0:trust,1.0:don,1.0:issued,1.0:certificate,1.0

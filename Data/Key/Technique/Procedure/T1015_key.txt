@@ -1,0 +1,1 @@
+leverage wmi debugging,9.0:remotely replace binaries,9.0:empire,1.0:sethc,1.0:exe,1.0:utilman,1.0:magnify,1.0:cmd,1.0

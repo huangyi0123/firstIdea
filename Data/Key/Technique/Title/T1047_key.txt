@@ -1,0 +1,1 @@
+windows management instrumentation,9.0

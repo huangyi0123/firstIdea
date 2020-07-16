@@ -1,0 +1,1 @@
+standard operating system apis,16.0:exploited application,4.0:surreptitiously track,4.0:physical location,4.0:adversary,1.0:malicious,1.0:device,1.0

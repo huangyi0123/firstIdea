@@ -1,0 +1,1 @@
+interrupt availability,4.0:network resources,4.0:inhibiting access,4.0:legitimate users,4.0:changed credentials,4.0:remove access,4.0:subsequently log,4.0:reboot boxes,4.0:set malicious,4.0:accounts utilized,3.333333333333333:accounts,1.3333333333333333:adversaries,1.0:system,1.0:deleted,1.0:locked,1.0:manipulated,1.0:place,1.0

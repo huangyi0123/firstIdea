@@ -1,0 +1,1 @@
+modify os kernel,9.0:boot partition,4.0

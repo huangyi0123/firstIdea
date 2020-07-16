@@ -1,0 +1,1 @@
+uboatrat takes advantage,9.0:/setnotifycmdline option,4.0:stays running,4.0:maintain persistence,4.0:bitsadmin,1.0:ensure,1.0:system,1.0

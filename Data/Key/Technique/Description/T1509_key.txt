@@ -1,0 +1,1 @@
+standard ports,4.0:exfiltrate information,4.0:adversaries,1.0

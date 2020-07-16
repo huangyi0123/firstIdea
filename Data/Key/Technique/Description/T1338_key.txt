@@ -1,0 +1,1 @@
+fake certificates,4.0:legal process,4.0:middle attacks,4.0:certificate authority,3.5:certificate,1.5:acquired,1.0:coercion,1.0:adversary,1.0:trick,1.0:issuing,1.0:part,1.0:man,1.0

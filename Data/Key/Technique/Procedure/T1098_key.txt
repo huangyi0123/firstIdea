@@ -1,0 +1,1 @@
+enterprise domain controller authentication process,21.0:standard authentication system,10.0:domain controller,7.0:skeleton key,4.0:backdoor password,4.0:defined password,4.0:accounts authenticating,4.0:patch,1.0:adversaries,1.0:bypass,1.0

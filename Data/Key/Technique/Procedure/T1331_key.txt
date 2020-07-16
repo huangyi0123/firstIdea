@@ -1,0 +1,1 @@
+layered malware beaconing approach,16.0:apt17 obfuscated infrastructure,9.0:multi,1.0

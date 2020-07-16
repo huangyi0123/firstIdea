@@ -1,0 +1,1 @@
+reverse command shell,9.0:zxshell,1.0:launch,1.0

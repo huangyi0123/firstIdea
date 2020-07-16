@@ -1,0 +1,1 @@
+port number combination,9.0:communication request,4.0:final location,4.0:redirecting,1.0:address,1.0:set,1.0:obfuscate,1.0:communications,1.0:occur,1.0:stages,1.0:attack,1.0

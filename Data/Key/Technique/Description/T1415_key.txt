@@ -1,0 +1,1 @@
+capture oauth authorization codes,16.0:phish user credentials,9.0:maliciously claim,4.0:url scheme,4.0:intercept calls,4.0:ios application,3.5:application,1.5:allowing,1.0:meant,1.0:technique,1.0

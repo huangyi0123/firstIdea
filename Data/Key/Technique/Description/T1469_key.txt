@@ -1,0 +1,1 @@
+android device manager,9.0:wipe enrolled devices,9.0:obtain unauthorized access,8.333333333333334:misuse authorized access,8.333333333333334:cloud services,4.0:apple icloud,4.0:emm console,4.0:access,2.3333333333333335:adversary,1.0:google,1.0:find,1.0:iphone,1.0

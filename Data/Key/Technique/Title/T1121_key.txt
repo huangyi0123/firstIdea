@@ -1,0 +1,1 @@
+regsvcs/regasm,1.0

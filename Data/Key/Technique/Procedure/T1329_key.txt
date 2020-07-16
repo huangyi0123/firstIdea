@@ -1,0 +1,1 @@
+virtual private server,9.0:temp,1.0:veles,1.0:vps,1.0:infrastructure,1.0

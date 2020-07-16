@@ -1,0 +1,1 @@
+removable media drive inserted,13.0:usbstealer drops commands,8.0:drive,2.5:inserted,2.5:commands,2.0:victim,1.0:executed,1.0

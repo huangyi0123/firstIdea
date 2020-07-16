@@ -1,0 +1,1 @@
+\system\share /delete command,15.666666666666666:windows admin shares connections,15.166666666666666:remove network share connections,14.833333333333332:remove share connections,10.833333333333332:windows shared drive,9.5:longer needed,3.5:longer,1.5:removed,1.0:net,1.0:utility,1.0:adversaries,1.0:order,1.0:clean,1.0:traces,1.0:operation,1.0

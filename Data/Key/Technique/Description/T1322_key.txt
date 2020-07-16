@@ -1,0 +1,1 @@
+true identity,4.0:misattributable credentials,3.333333333333333:credentials,1.3333333333333333:adversary,1.0:intent,1.0:hide,1.0:portray,1.0:person,1.0:entity,1.0:attack,1.0:convince,1.0:victim,1.0:legitimate,1.0:trustworthy,1.0:case,1.0

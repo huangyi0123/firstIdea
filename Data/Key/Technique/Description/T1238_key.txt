@@ -1,0 +1,1 @@
+decide nuclear energy requirements,15.0:specific organization based,9.0:key intelligence topics,8.666666666666666:key intelligence questions,8.666666666666666:intelligence requirements,5.666666666666666:applicable agencies,4.0:generated,1.0:kits,1.0:kiqs,1.0:assigned,1.0:personnel,1.0:adversary,1.0:mission,1.0

@@ -1,0 +1,1 @@
+google play storeadvertises,9.0:network connections app,8.0:network connections,5.0:standard apis,4.0:android,1.0:applications,1.0:gather,1.0:list,1.0:device,1.0:functionality,1.0

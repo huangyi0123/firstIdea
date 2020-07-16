@@ -1,0 +1,1 @@
+minimize targeted antivirus applications,16.0:device security settings screen,14.5:riltok injects input,9.0:default sms handler,9.0:screen,2.5:set,1.0:clicking,1.0:places,1.0:close,1.0

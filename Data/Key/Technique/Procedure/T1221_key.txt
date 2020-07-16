@@ -1,0 +1,1 @@
+tropic trooper delivered malicious documents,23.5:openxml documents,5.5:xlsx extension,4.0:typically,1.0:file,1.0:ole,1.0:xls,1.0:document,1.0

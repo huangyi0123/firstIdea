@@ -1,0 +1,1 @@
+legitimate sites,4.0:staging servers,4.0:stage payloads,4.0:apt16,1.0:compromised,1.0

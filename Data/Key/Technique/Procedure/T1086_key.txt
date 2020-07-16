@@ -1,0 +1,1 @@
+zeus panda,4.0:powershell,1.0:download,1.0:execute,1.0:payload,1.0

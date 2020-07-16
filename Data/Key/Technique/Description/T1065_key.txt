@@ -1,0 +1,1 @@
+conduct c2 communications,9.0:standard port,4.0:bypass proxies,4.0:improperly configured,4.0:adversaries,1.0:firewalls,1.0

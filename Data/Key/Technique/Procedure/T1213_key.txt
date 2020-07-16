@@ -1,0 +1,1 @@
+dump information,4.0:microsoft sharepoint,4.0:spwebmember,1.0:enumerate,1.0

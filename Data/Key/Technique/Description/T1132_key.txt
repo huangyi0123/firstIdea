@@ -1,0 +1,1 @@
+standard data encoding system,13.75:existing protocol specifications,9.0:character encoding systems,9.0:data encoding systems,8.75:data encoding,5.75:data compression,4.75:command,1.0:control,1.0:c2,1.0:information,1.0:encoded,1.0:adhere,1.0:includes,1.0:ascii,1.0:unicode,1.0:base64,1.0:mime,1.0:utf,1.0:binary,1.0:text,1.0:result,1.0:gzip,1.0

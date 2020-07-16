@@ -1,0 +1,1 @@
+software applications,4.0:reveal vulnerabilities,4.0:built,1.0:technologies,1.0:languages,1.0:dependencies,1.0:information,1.0:opportunities,1.0:adversary,1.0

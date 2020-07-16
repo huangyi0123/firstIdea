@@ -1,0 +1,1 @@
+exploit unpatched vulnerabilities,9.0:obtain escalated privileges,9.0:malicious app,4.0:operating system,4.0

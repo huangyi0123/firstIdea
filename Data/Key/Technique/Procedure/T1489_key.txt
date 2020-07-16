@@ -1,0 +1,1 @@
+microsoft sql server,9.0:wannacry attempts,4.0:kill processes,4.0:data stores,4.0:exchange,1.0:mysql,1.0:make,1.0:encrypt,1.0

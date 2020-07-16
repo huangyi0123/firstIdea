@@ -1,0 +1,1 @@
+control server,4.0:flexispy,1.0:communicate,1.0:command,1.0:ports 12512,1.0

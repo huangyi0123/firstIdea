@@ -1,0 +1,1 @@
+zebrocy performs persistence,9.0:registry key,4.0:logon script,4.0:adding,1.0

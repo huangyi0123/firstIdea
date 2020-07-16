@@ -1,0 +1,1 @@
+trigger action buttons contained,16.0:time authentication codes,9.0:malicious application,4.0:operating system,4.0:sensitive data,4.0:read notifications,3.75:dismiss notifications,3.75:notifications arrived,3.75:notifications,1.75:applications,1.0:sms,1.0:email,1.0:mediums,1.0:prevent,1.0:user,1.0:noticing,1.0

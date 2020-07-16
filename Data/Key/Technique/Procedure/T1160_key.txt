@@ -1,0 +1,1 @@
+persistence file,4.0:folder /library/launchdaemons,4.0:osx_oceanlotus,1.0:create,1.0

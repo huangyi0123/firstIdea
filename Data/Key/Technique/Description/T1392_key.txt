@@ -1,0 +1,1 @@
+distribute malicious apps directly,14.0:apple ios devices,9.0:apple app store,9.0:apps,2.0:adversary,1.0:obtain,1.0:certificate,1.0:publish,1.0:potentially,1.0:detected,1.0

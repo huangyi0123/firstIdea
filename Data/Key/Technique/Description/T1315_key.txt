@@ -1,0 +1,1 @@
+evade network signature detection,16.0:examples include channel/ip/vlan hopping,16.0:technical network hiding techniques,15.5:utilize misattribution techniques,9.5:mimicking legitimate operations,9.0:modifying traffic,4.0:methods,1.0:seeding,1.0:misinformation,1.0

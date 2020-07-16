@@ -1,0 +1,1 @@
+gazer versions,4.0:turla made,4.0:obfuscate strings,4.0:named pipe,4.0:based,1.0:comparison,1.0:effort,1.0:malware,1.0:iocs,1.0:including,1.0:mutex,1.0

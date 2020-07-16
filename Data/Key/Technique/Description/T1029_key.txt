@@ -1,0 +1,1 @@
+blend traffic patterns,9.0:normal activity,4.0:control channel,4.0:alternative protocol,4.0:data exfiltration,3.6:scheduled exfiltration,3.6:exfiltration techniques,3.6:exfiltration,1.6:performed,1.0:times,1.0:day,1.0:intervals,1.0:availability,1.0:apply,1.0:transfer,1.0:information,1.0:network,1.0:command,1.0

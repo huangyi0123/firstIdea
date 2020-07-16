@@ -1,0 +1,1 @@
+dynamic dns,4.0:automated method,4.0:rapidly update,4.0:system mapping,4.0:domain,1.0:hostnames,1.0:ips,1.0

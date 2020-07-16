@@ -1,0 +1,1 @@
+detect virtual pc,9.0:basic anti,4.0:sandbox detection,4.0:yty,1.0:sandboxie,1.0:vmware,1.0

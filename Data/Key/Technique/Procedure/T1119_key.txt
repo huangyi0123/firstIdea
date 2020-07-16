@@ -1,0 +1,1 @@
+automatically collects files,9.0:zebrocy scans,4.0:system,1.0:extensions,1.0:doc,1.0:docx,1.0:xls,1.0:xlsx,1.0:pdf,1.0:pptx,1.0:rar,1.0:zip,1.0:jpg,1.0:jpeg,1.0:bmp,1.0:tiff,1.0:kum,1.0:tlg,1.0:sbx,1.0:cr,1.0:hse,1.0:hsf,1.0:lhz,1.0

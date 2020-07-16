@@ -1,0 +1,1 @@
+common vulnerability enumeration,9.0:target specific software,9.0:security vulnerabilities,4.0:cve,1.0:dictionary,1.0:publicly,1.0:information,1.0:exposures,1.0:adversary,1.0:vulnerable,1.0

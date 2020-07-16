@@ -1,0 +1,1 @@
+content delivery network,8.5:network traffic,4.5:domain fronting,4.0:intended desitnation,4.0:meek,1.0:disguise,1.0:destination,1.0:server,1.0:hosted,1.0:cdn,1.0

@@ -1,0 +1,1 @@
+blackenergy locates existing driver services,23.5:driver component,5.5:legitimate executable,4.0:start automatically,4.0:establish persistence,4.0:hijacked service,3.5:service,1.5:variant,1.0:disabled,1.0:drops,1.0:paths,1.0:replacing,1.0:malware,1.0:sets,1.0

@@ -1,0 +1,1 @@
+exploit signaling system vulnerabilities,16.0:obtain authentication codes,8.5:factor authentication,4.5:redirect calls,4.0:text messages,4.0:phone number,4.0:enable adversaries,4.0:sms messages,3.5:sms,1.5:adversary,1.0:attacker,1.0:control,1.0:act,1.0:man,1.0:middle,1.0:intercept,1.0:manipulate,1.0:communication,1.0:interception,1.0:multi,1.0

@@ -1,0 +1,1 @@
+system shutdown/reboot,4.0

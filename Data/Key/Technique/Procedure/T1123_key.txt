@@ -1,0 +1,1 @@
+perform audio capture,9.0:vermin,1.0

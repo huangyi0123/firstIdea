@@ -1,0 +1,1 @@
+human readable names,8.5:domain names,4.5:ip addresses,4.0:unique identifier,4.0:computing devices,4.0:represent,1.0:network,1.0:pieces,1.0:information,1.0:valuable,1.0:adversary,1.0:understand,1.0:structure,1.0

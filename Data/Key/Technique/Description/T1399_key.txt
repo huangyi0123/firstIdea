@@ -1,0 +1,1 @@
+similar isolated execution environment,15.0:trusted execution environment,10.0:place malicious code,8.0:evade detection,4.0:running code,4.0:device resets,3.75:device user,3.75:device behavior,3.75:escalate privileges,3.5:code,2.0:device,1.75:privileges,1.5:adversary,1.0:tee,1.0:persist,1.0:removable,1.0:provide,1.0:ability,1.0:monitor,1.0:tamper,1.0

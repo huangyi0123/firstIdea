@@ -1,0 +1,1 @@
+infected files,4.0:network drives,4.0:ursnif,1.0:copied,1.0:propagation,1.0

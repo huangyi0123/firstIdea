@@ -1,0 +1,1 @@
+service registry permissions weakness,16.0

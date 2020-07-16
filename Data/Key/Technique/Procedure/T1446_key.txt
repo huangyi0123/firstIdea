@@ -1,0 +1,1 @@
+remotely lock infected android devices,25.0:xbot,1.0:ransom,1.0

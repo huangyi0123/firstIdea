@@ -1,0 +1,1 @@
+analyze social,4.0:business relationships,4.0:interests,1.0:affiliations,1.0

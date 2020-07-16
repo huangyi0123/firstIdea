@@ -1,0 +1,1 @@
+procured equipment,4.0:desired infrastructure,4.0:adversary,1.0:skills,1.0:set,1.0:software,1.0:create,1.0

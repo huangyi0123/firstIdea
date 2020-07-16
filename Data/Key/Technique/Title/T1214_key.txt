@@ -1,0 +1,1 @@
+credentials,1.0:registry,1.0

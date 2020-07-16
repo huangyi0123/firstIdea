@@ -1,0 +1,1 @@
+physically connected pc,9.0:impersonate usb devices,8.25:input devices,4.25:storage devices,4.25:networking devices,4.25:escalated privileges,4.0:mobile device,4.0:adversary,1.0:program,1.0:keyboard,1.0:mouse,1.0:order,1.0:attack,1.0:technique,1.0:demonstrated,1.0:android,1.0:unaware,1.0:demonstrations,1.0:ios,1.0

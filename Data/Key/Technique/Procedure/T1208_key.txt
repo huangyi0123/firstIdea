@@ -1,0 +1,1 @@
+return crackable ticket hashes,16.0:request service tickets,9.0:kerberoast module,4.0:powersploit,1.0:invoke,1.0

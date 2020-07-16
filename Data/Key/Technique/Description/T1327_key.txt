@@ -1,0 +1,1 @@
+multiple dns infrastructures,8.5:dynamic dns,4.5:adversary similar,4.0:whois records,4.0:technique,1.0:exception,1.0

@@ -1,0 +1,1 @@
+make ad updates,9.0:dcshadow module,4.0:temporarily setting,4.0:mimikatz,1.0:lsadump,1.0:computer,1.0:dc,1.0

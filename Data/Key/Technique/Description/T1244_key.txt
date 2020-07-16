@@ -1,0 +1,1 @@
+secondary level tactical element,16.0:adversary seeks,4.0:sql server,4.0:domain controller,4.0:specific network,3.666666666666667:corporate network,3.666666666666667:network,1.6666666666666667:attack,1.0:area,1.0:vulnerable,1.0:vulnerability,1.0

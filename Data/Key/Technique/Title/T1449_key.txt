@@ -1,0 +1,1 @@
+redirect phone calls/sms,9.0:exploit ss7,4.0

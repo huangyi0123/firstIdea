@@ -1,0 +1,1 @@
+synack abuses ntfs transactions,16.0:conceal malicious processes,9.0:launch,1.0

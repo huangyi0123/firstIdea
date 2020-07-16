@@ -1,0 +1,1 @@
+multiple network protocols,8.5:avoid network,4.5:based detection,4.0:plugx,1.0:configured,1.0

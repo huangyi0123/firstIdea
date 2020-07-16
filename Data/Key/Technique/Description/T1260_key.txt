@@ -1,0 +1,1 @@
+network resources required,9.0:infrastructure services includes,8.0:communications environment,4.0:3rd party,4.0:owning organization,4.0:infrastructure,2.0:hardware,1.0:software,1.0:operate,1.0:managed,1.0

@@ -1,0 +1,1 @@
+raw sockets,4.0:c2 server,4.0:zebrocy,1.0:communicate,1.0

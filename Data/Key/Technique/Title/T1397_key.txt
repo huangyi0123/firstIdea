@@ -1,0 +1,1 @@
+spearphishing,1.0:information,1.0

@@ -1,0 +1,1 @@
+write data,4.0:xcodeghost,1.0:read,1.0:user,1.0:clipboard,1.0

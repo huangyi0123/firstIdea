@@ -1,0 +1,1 @@
+windows management instrumentation event subscription,25.0

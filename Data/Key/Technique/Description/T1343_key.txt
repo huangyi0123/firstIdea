@@ -1,0 +1,1 @@
+attacks incorporating social engineering,16.0:line persona,4.0:existing persona,4.0:compromised accounts,4.0:potential victim,4.0:compromised persona,4.0:utilization,1.0:important,1.0:utilizing,1.0:engender,1.0:level,1.0:trust,1.0:relationship,1.0:knowledge,1.0

@@ -1,0 +1,1 @@
+permanent software programmed,8.0:multiple versions,4.0:software,2.0:firmware,1.0:read,1.0:memory,1.0:device,1.0:types,1.0:updated,1.0:time,1.0

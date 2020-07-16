@@ -1,0 +1,1 @@
+simply avoid data threshold alerts,23.5:outbound data,5.5:inbound command,4.0:firewall restrictions,4.0:split communications,3.5:split,1.5:adversaries,1.0:protocols,1.0:protocol,1.0:control,1.0:allowing,1.0:bypass,1.0:random,1.0:communication,1.0

@@ -1,0 +1,1 @@
+delete attacker,4.0:compromised devices,4.0:pallas,1.0:ability,1.0:files,1.0

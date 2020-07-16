@@ -1,0 +1,1 @@
+malicious inf,4.0:powerstats payload,4.0:muddywater,1.0:cmstp,1.0:exe,1.0:execute,1.0

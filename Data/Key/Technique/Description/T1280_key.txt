@@ -1,0 +1,1 @@
+effectively craft social engineering attempts,25.0:organizations business processes,9.0:hide technical actions,9.0:generate network traffic,9.0:understanding,1.0:tempo,1.0:adversary,1.0

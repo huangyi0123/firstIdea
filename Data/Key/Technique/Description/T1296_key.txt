@@ -1,0 +1,1 @@
+identify targeting options,9.0:operational security,4.0:adversary,1.0:assess,1.0:target,1.0:opsec,1.0:practices,1.0:order,1.0:share,1.0:information,1.0:settings,1.0:cautious,1.0:environments,1.0

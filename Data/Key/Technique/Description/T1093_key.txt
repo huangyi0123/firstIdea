@@ -1,0 +1,1 @@
+process hollowing occurs,8.0:suspended state,4.0:malicious code,4.0:process injection,4.0:legitimate process,4.0:evade defenses,4.0:detection analysis,4.0:process,2.0:created,1.0:memory,1.0:unmapped,1.0:replaced,1.0:similar,1.0:execution,1.0:masked,1.0

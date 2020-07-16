@@ -1,0 +1,1 @@
+adding additional actions,9.0:network forensic artifacts,8.5:network communications,4.5:execution,1.0:code,1.0:result,1.0:logging,1.0:system,1.0:adversary,1.0:run,1.0:identify,1.0:recorded,1.0:conditions,1.0:deleting,1.0:record,1.0:log,1.0

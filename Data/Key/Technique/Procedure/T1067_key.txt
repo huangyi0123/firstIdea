@@ -1,0 +1,1 @@
+master boot record,9.0:establish persistence,4.0:rockboot,1.0:mbr,1.0:bootkit,1.0

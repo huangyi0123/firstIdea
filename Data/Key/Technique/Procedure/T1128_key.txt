@@ -1,0 +1,1 @@
+persistence proxy technique,9.0:helper dll,4.0:netsh,1.0:execute,1.0:exe,1.0:executed,1.0

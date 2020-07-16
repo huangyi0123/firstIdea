@@ -1,0 +1,1 @@
+spydealer maintains persistence,9.0:android application package,9.0:system partition,4.0:installing,1.0:apk,1.0

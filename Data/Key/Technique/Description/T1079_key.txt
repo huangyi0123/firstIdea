@@ -1,0 +1,1 @@
+adversary performs c2 communications,16.0:custom encryption scheme,8.333333333333334:protocol encryption scheme,8.333333333333334:multiple layers,4.0:encryption,2.3333333333333335:typically,1.0:exclusively,1.0:tunneling,1.0:https,1.0:smtps,1.0

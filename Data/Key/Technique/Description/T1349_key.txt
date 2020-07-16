@@ -1,0 +1,1 @@
+exploit takes advantage,9.0:modify existing exploits,8.0:unanticipated behavior,4.0:computer hardware,4.0:exploits,2.0:bug,1.0:vulnerability,1.0:order,1.0:unintended,1.0:occur,1.0:software,1.0:adversary,1.0:relevant,1.0:environment,1.0:compromise,1.0

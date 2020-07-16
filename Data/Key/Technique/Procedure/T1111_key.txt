@@ -1,0 +1,1 @@
+smart card technologies,9.0:restricted network resources,9.0:detected hardware tokens,9.0:enables targeting,4.0:proxy authentication,4.0:sykipot,1.0:functionality,1.0:connections,1.0

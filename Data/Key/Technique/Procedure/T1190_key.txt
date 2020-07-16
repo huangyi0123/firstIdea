@@ -1,0 +1,1 @@
+sql injection vulnerabilities,9.0:automate exploitation,4.0:sqlmap,1.0

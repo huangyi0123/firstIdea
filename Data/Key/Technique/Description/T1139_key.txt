@@ -1,0 +1,1 @@
+commands users type,6.5:type usernames,4.5:potential credentials,4.0:file resides,3.4:user logs,3.25:bash_history file,2.9:500 commands,2.0:users,2.0:bash_history,1.5:file,1.4:user,1.25:bash,1.0:track,1.0:command,1.0:line,1.0:history,1.0:utility,1.0:flushed,1.0:location,1.0:typically,1.0:passwords,1.0:parameters,1.0:programs,1.0:saved,1.0:log,1.0:attackers,1.0:abuse,1.0

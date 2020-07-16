@@ -1,0 +1,1 @@
+spearphishing emails,4.0:deliver braintest,4.0:malicious attachment,4.0:turla,1.0

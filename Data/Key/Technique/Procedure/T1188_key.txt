@@ -1,0 +1,1 @@
+control traffic,4.0:wannacry,1.0:tor,1.0:command,1.0

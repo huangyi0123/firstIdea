@@ -1,0 +1,1 @@
+manage startup entries,9.0:jrat,1.0:list,1.0

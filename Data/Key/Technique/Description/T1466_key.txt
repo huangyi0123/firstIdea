@@ -1,0 +1,1 @@
+make communication easier,9.0:allowing older protocols,8.25:secure protocols,4.25:newer protocols,4.25:mobile device,4.0:jamming frequencies,4.0:adversary,1.0:lte,1.0:gsm,1.0:communicate,1.0:eavesdrop,1.0:manipulate,1.0

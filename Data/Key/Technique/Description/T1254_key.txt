@@ -1,0 +1,1 @@
+active scanning,4.0:sending transmissions,4.0:end nodes,4.0:identify information,4.0:communications system,4.0:act,1.0:analyzing,1.0:responses,1.0:order,1.0

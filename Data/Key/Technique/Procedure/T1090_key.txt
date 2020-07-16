@@ -1,0 +1,1 @@
+socks proxy,4.0:zxshell,1.0:set,1.0:http,1.0

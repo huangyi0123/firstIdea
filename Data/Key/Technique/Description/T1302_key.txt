@@ -1,0 +1,1 @@
+physical access,4.0:adversarial actions,4.0:required,1.0:types,1.0

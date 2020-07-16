@@ -1,0 +1,1 @@
+word document delivering typeframe prompts,25.0:enable macro execution,9.0:user,1.0

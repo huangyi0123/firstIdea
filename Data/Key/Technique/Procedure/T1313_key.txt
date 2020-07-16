@@ -1,0 +1,1 @@
+zhcat makes message traffic,13.5:encrypt traffic,5.0:inline obfuscation,4.0:make detection,4.0:zhcat,2.5:cleaver,1.0:difficult,1.0:benign,1.0

@@ -1,0 +1,1 @@
+requires escalated privileges,9.0:device keyboard cache,9.0:local system sources,8.2:local system data,7.7:sensitive data,4.5:file system,4.2:operating system,4.2:information residing,4.0:fi passwords,4.0:root access,3.5:system,2.2:access,1.5:collected,1.0:databases,1.0:examples,1.0:wi,1.0:photos,1.0

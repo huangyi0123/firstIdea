@@ -1,0 +1,1 @@
+host based hiding techniques,16.0:remain undetected,4.0:ofstatic linking,4.0:polymorphic code,4.0:exploiting weakness,4.0:file formats,4.0:deleting code,4.0:designed,1.0:adversary,1.0:machine,1.0:action,1.0:binaries,1.0:parsers,1.0

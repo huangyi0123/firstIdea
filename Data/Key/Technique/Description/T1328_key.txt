@@ -1,0 +1,1 @@
+human readable names,8.5:domain names,4.5:ip addresses,4.0:represent,1.0:purchased,1.0:cases,1.0:acquired,1.0:free,1.0

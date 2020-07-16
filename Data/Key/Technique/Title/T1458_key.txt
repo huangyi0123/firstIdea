@@ -1,0 +1,1 @@
+charging station,4.0:exploit,1.0:pc,1.0

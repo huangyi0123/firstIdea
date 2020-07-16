@@ -1,0 +1,1 @@
+windows remote management,8.0:windows service,4.5:remote system,4.5:modify services,3.5:winrm command,3.5:winrm,1.5:modify,1.5:protocol,1.0:user,1.0:interact,1.0:run,1.0:executable,1.0:registry,1.0:called,1.0:number,1.0:programs,1.0:powershell,1.0

@@ -1,0 +1,1 @@
+distribute malicious software development tools,20.5:hide malicious behavior,10.0:software built,5.5:tools,3.0:adversary,1.0:compiler,1.0

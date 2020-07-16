@@ -1,0 +1,1 @@
+multiple ip addresses assigned,16.0:round robin ip address,16.0:fully qualified domain,9.0:dns resource record,9.0:extreme frequency,4.0:short time,4.0:technique,1.0:swapped,1.0:combination,1.0:live,1.0:ttl,1.0

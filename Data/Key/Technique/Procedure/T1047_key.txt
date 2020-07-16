@@ -1,0 +1,1 @@
+wmi queries,4.0:gather information,4.0:variant,1.0:zebrocy,1.0

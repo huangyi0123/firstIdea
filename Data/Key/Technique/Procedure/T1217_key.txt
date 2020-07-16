@@ -1,0 +1,1 @@
+c2 server victim browser bookmarks,25.0:mobileorder,1.0:command,1.0:upload,1.0

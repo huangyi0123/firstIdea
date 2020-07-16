@@ -1,0 +1,1 @@
+exploit enterprise servers,9.0:internal enterprise network,8.333333333333334:virtual private network,8.333333333333334:mobile device,4.0:local connectivity,4.0:network,2.3333333333333335:adversaries,1.0:attempt,1.0:workstations,1.0:resources,1.0:technique,1.0:advantage,1.0:access,1.0:vpn,1.0

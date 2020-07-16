@@ -1,0 +1,1 @@
+app auto,4.0:device boot,4.0:start,1.0

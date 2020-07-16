@@ -1,0 +1,1 @@
+rogue cellular base station,15.666666666666666:manipulate cellular device communication,15.666666666666666:compromised cellular femtocell,9.666666666666666:adversary,1.0:set,1.0:eavesdrop,1.0:carry,1.0:technique,1.0

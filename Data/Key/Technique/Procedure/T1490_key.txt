@@ -1,0 +1,1 @@
+disable operating system recovery features,25.0:wannacry,1.0:vssadmin,1.0:wbadmin,1.0:bcdedit,1.0:wmic,1.0:delete,1.0

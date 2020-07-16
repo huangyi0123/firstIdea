@@ -1,0 +1,1 @@
+made public,4.0:research vulnerabilities,4.0:delay,1.0:vulnerability,1.0:exploit,1.0:discovered,1.0:adversary,1.0:target,1.0:systems,1.0:order,1.0:gain,1.0:knowledge,1.0:attack,1.0

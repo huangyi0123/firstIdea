@@ -1,0 +1,1 @@
+usbstealer automatically exfiltrates collected files,25.0:removable media,4.0:infected device,4.0:receiving commands,4.0:connected,1.0:victim,1.0

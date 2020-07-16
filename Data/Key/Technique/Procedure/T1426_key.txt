@@ -1,0 +1,1 @@
+rumms gathers device model,16.0:operating system version information,16.0:control server,4.0:transmits,1.0:command,1.0

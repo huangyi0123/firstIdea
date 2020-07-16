@@ -1,0 +1,1 @@
+wingbird drops,4.0:malicious file,4.0:point function,4.0:loads sspisrv,3.5:malicious driver,3.5:spoofed service,3.5:sspisrv,1.5:service,1.5:driver,1.5:dll,1.0:alongside,1.0:copy,1.0:lsass,1.0:exe,1.0:register,1.0:payload,1.0:located,1.0:entry,1.0:executed,1.0:loaded,1.0:unstable,1.0:crashes,1.0

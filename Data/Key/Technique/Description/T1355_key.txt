@@ -1,0 +1,1 @@
+launch phase requires,9.0:determine type,4.0:removable media,3.5:media,1.5:part,1.0:adversary,1.0:format,1.0:content,1.0:malware,1.0

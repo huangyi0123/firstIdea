@@ -1,0 +1,1 @@
+common protocols,4.0:legitimate traffic,3.333333333333333:traffic,1.3333333333333333:types,1.0:twitter14,1.0:http,1.0:commonly,1.0:utilizing,1.0:software,1.0:make,1.0:adversary,1.0:difficult,1.0:distinguish,1.0

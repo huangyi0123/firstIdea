@@ -1,0 +1,1 @@
+c2 server,4.0:connection closes,4.0:port number,3.5:port,1.5:xtunnel,1.0:victim,1.0:fallback,1.0:case,1.0

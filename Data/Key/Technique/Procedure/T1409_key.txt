@@ -1,0 +1,1 @@
+tangelo accesses databases,9.0:whatsapp,1.0:viber,1.0:skype,1.0:line,1.0

@@ -1,0 +1,1 @@
+file manager,4.0:zxshell,1.0:command,1.0:open,1.0:explorer,1.0:system,1.0

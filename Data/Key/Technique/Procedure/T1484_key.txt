@@ -1,0 +1,1 @@
+malicious scheduled task,9.0:empire,1.0:gpoimmediatetask,1.0:modify,1.0:gpo,1.0:install,1.0:execute,1.0

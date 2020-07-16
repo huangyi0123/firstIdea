@@ -1,0 +1,1 @@
+abuse device administrator access,16.0:prevent removal,4.0

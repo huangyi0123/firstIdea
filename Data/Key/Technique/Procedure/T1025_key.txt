@@ -1,0 +1,1 @@
+removable media device,9.0:usbstealer collects data,9.0:inserted back,4.0:victim,1.0:exfiltrated,1.0

@@ -1,0 +1,1 @@
+key intelligence topics,9.0:key intelligence questions,9.0:intellectual property categories,9.0:kits,1.0:kiqs,1.0:subdivided,1.0:focus,1.0:political,1.0:economic,1.0:diplomatic,1.0:military,1.0:financial,1.0:adversary,1.0:manner,1.0:order,1.0:understand,1.0:information,1.0:pursuing,1.0:multiple,1.0:aspects,1.0:types,1.0:target,1.0:purpose,1.0:kit,1.0

@@ -1,0 +1,1 @@
+device sensors,4.0:collect information,4.0:nearby networks,4.0:adversaries,1.0:wi,1.0:fi,1.0:bluetooth,1.0

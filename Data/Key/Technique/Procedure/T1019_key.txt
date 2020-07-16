@@ -1,0 +1,1 @@
+mebromi performs bios modification,16.0:trojan,1.0:download,1.0:execute,1.0:file,1.0:protect,1.0:removal,1.0

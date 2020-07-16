@@ -1,0 +1,1 @@
+winnti group,4.0:stolen certificates,4.0:sign,1.0:malware,1.0
